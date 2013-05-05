@@ -1,4 +1,4 @@
-# Doap PHP Simple Demo App
+# Doap PHP Simple Web App
 
-This is a simple app designed to be launched via AWS Opsworks.
-instructions:http://docs.aws.amazon.com/opsworks/latest/userguide/gettingstarted.walkthrough.phpapp.html
+The Doap PHP web application running on AWS OpsWorks.
+Instructions:http://docs.aws.amazon.com/opsworks/latest/userguide/gettingstarted.walkthrough.phpapp.html
