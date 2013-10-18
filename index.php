@@ -22,6 +22,21 @@
             </div>
         </div>
 
+
+  <div style="max-width:960px;">
+   <div style="position:relative;float:right;margin-right: 10px;width:168px;">
+    <img style="position:relative;float:right;margin-right: 10px;" alt="doapy128sq" src="http://doap.com/wp-content/uploads/2013/05/doapy128sq.png" width="168" height="168">
+   </div>
+   
+    <h2>DevOps and Platforms</h2>
+    <P>Welcome to another Doap website:</p>
+      <ul>
+        <li>Repo is here: <a href="https://github.com/Doap/mini">GitHub Mini repo</a></a></li>
+        <li>Click <a href="info.php">here</a> to try some php.</li>
+        <li><a href=http://opsworks-ec2-881681133.us-west-2.elb.amazonaws.com/>http://opsworks-ec2-881681133.us-west-2.elb.amazonaws.com/</a></li>
+      </ul>
+    </div>
+    
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
     </body>
