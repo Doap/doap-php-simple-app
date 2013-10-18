@@ -30,7 +30,7 @@
       <ul>
         <li>Repo is here: <a href="https://github.com/Doap/mini">GitHub Mini repo</a></a></li>
         <li>Click <a href="info.php">here</a> to try some php.</li>
-        <li><a href=http://opsworks-ec2-881681133.us-west-2.elb.amazonaws.com/>http://opsworks-ec2-881681133.us-west-2.elb.amazonaws.com/</a></li>
+        <li><a href=http://50.112.224.71/>http://50.112.224.71//</a></li>
       </ul>
     </div>
             </div>
