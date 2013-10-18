@@ -30,7 +30,7 @@
       <ul>
         <li>Repo is here: <a href="https://github.com/Doap/doap-php-simple-app.git">GitHub Doap simple app repo</a></a></li>
         <li>Click <a href="info.php">here</a> to try some php.</li>
-        <li><a href=http://50.112.224.71/>http://50.112.224.71//</a></li>
+        <li><a href=http://50.112.224.71/>http://50.112.224.71/</a></li>
       </ul>
     </div>
             </div>
