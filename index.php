@@ -19,11 +19,8 @@
                 <h2>Sweet!</h2>
                 <p>The Doap PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
                 <p>We are running PHP version <?php echo phpversion(); ?>.</p>
-            </div>
-        </div>
-
-
-  <div style="max-width:960px;">
+                
+                <div style="max-width:960px;">
    <div style="position:relative;float:right;margin-right: 10px;width:168px;">
     <img style="position:relative;float:right;margin-right: 10px;" alt="doapy128sq" src="http://doap.com/wp-content/uploads/2013/05/doapy128sq.png" width="168" height="168">
    </div>
@@ -36,6 +33,11 @@
         <li><a href=http://opsworks-ec2-881681133.us-west-2.elb.amazonaws.com/>http://opsworks-ec2-881681133.us-west-2.elb.amazonaws.com/</a></li>
       </ul>
     </div>
+            </div>
+        </div>
+
+
+ 
     
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
