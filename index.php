@@ -31,18 +31,22 @@
             <img style="position:relative;float:right;margin-right: 10px;" alt="doapy128sq" src="http://doap.com/wp-content/uploads/2013/05/doapy128sq.png" width="168" height="168">
         </div>
    
-    <h2>DevOps and Platforms</h2>
-    <P>Welcome to another Doap website:</p>
+        <h2>DevOps and Platforms</h2>
+        <P>Welcome to another Doap website:</p>
         <ul>
             <li>Repo is here: <a href="https://github.com/Doap/doap-php-simple-app.git">GitHub Doap simple app repo</a></a></li>
             <li>Click <a href="info.php">here</a> to try some php.</li>
             <li><a href=http://50.112.224.71/>http://50.112.224.71/</a></li>
             <li><a href=mysql://54.244.200.191/>mysql://54.244.200.191/</a></li>
+            <li><a href=http://doap-ec2-95154456.us-west-2.elb.amazonaws.com/>http://doap-ec2-95154456.us-west-2.elb.amazonaws.com/</a></li>
         </ul>
     </div>
-
-
-    
+    <pre>
+        DNS Name:
+        doap-ec2-95154456.us-west-2.elb.amazonaws.com (A Record)
+        ipv6.doap-ec2-95154456.us-west-2.elb.amazonaws.com (AAAA Record)
+        dualstack.doap-ec2-95154456.us-west-2.elb.amazonaws.com (A or AAAA Record)
+    </pre>
     
             </div>
         </div>
