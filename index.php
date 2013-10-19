@@ -23,9 +23,9 @@
                     <li>For info on how to deploy an app, see <a href="http://docs.aws.amazon.com/opsworks/latest/userguide/workingapps-deploying.html">Deploying Apps</a> in the docs.</li>
                     <li>For more info on this sample and how it works, see <a href="http://docs.aws.amazon.com/opsworks/latest/userguide/gettingstarted.walkthrough.phpapp.2.html">Step 2. Update the server application to a new version that uses a database</a>.</li>
                 </ul>
-            </div>
-
-
+    
+    
+    
     <div style="max-width:960px;">
         <div style="position:relative;float:right;margin-right: 10px;width:168px;">
             <img style="position:relative;float:right;margin-right: 10px;" alt="doapy128sq" src="http://doap.com/wp-content/uploads/2013/05/doapy128sq.png" width="168" height="168">
@@ -42,12 +42,10 @@
     </div>
 
 
-
+    
+    
+            </div>
         </div>
-        
-
-
-
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="web/assets/js/bootstrap.min.js"></script>
     </body>
