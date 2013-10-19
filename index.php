@@ -28,7 +28,8 @@
     <h2>DevOps and Platforms</h2>
     <P>Welcome to another Doap website:</p>
       <ul>
-        <li>Repo is here: <a href="https://github.com/Doap/doap-php-simple-app.git">GitHub Doap simple app repo</a></a></li>
+        <li>Repo is here: <a href="https://github.com/Doap/doap-php-simple-app.git">GitHub doap-wordpress-app
+</a></a></li>
         <li>Click <a href="info.php">here</a> to try some php.</li>
         <li><a href=http://50.112.224.71/>http://50.112.224.71/</a></li>
         <li><a href=mysql://54.244.200.191/>mysql://54.244.200.191/</a></li>
